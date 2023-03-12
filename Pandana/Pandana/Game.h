@@ -22,7 +22,7 @@ private:
 private:
 	//Window related Variables
 	sf::VideoMode videoMode;
-	sf::RenderWindow* window;
+	sf::RenderWindow *window;
 	sf::Event ev;
 
 	//Background 

@@ -63,7 +63,7 @@ void Bat::updateAnimation()
 
 void Bat::updateMove()
 {
-	this->shape.move(-.2f * movementSpeed, 2.f * movementSpeed);;
+	this->shape.move(-.2f * movementSpeed, 2.f * movementSpeed);
 }
 
 void Bat::update()
